@@ -3,7 +3,8 @@
 ## Pasos para instalación
 
 1- Bajar desde plataforma de Acamica o bien desde el repositorio de GitHub detallado abajo.
-https://github.com/skills20/DataWarehouse
+https://github.com/skills20/DataWarehouse.
+
 2- Es necesario tener un servidor de base de datos MySQL.
 
 3- El archivo "dwh.sql" contiene todo lo necesario para crear la base de datos, tablas, relaciones y algunos datos precargados necesarios para su uso. El mismo se encuentra localizado dentro de la carpeta Back.
