@@ -3,7 +3,7 @@
 ## Pasos para instalación
 
 1- Bajar desde plataforma de Acamica o bien desde el repositorio de GitHub detallado abajo.
-https://github.com/skills20/DataWarehouse.
+https://github.com/johnvamp/DataWarehouse.
 
 2- Es necesario tener un servidor de base de datos MySQL.
 
